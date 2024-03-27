@@ -6,7 +6,7 @@ const experience = [
         did: 'Computer Science',
         year: '2004-2022',
         id: 'bspsss10',
-        name: 'St Joseph Matric Hr Sec School',
+        name: 'St.Joseph Matric Hr Sec School',
     },
     {
         img: "images/kle.png",
