@@ -1,7 +1,7 @@
 const experience = [
     {
         img: "images/sss10.png",
-        shortname: 'BSP SSS X',
+        shortname: 'SJMHSS',
         type: 'School',
         did: 'Computer Science',
         year: '2004-2022',
@@ -10,7 +10,7 @@ const experience = [
     },
     {
         img: "images/kle.png",
-        shortname: 'KLE Tech',
+        shortname: 'SECE',
         name: 'Sri Eshwar College of Engineering',
         year: '2022-2026',
         type: 'College',
