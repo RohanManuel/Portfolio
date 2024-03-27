@@ -19,6 +19,15 @@ const experience = [
         img: "images/pdi.png",
         name: 'Udemy: Mastering Data Structures & Algorithms',
     },
+    {
+        img: "images/ri.png",
+        name: 'FreeCodeCamp: Front End Development Libraries',
+    },
+    {
+        img: "images/ro.png",
+        name: 'FreeCodeCamp: Responsive Web Design',
+    }
+
 ];
 
 $.each(experience, function(x, y) {

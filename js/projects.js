@@ -1,8 +1,20 @@
 const project = [
     {
-        name: "Online Shopping",
-        des: 'A non GUI module gives you full online shopping experience',
-        type: 'Html,Css,Javascript',
+        name: "Netflix Clone Website",
+        des: 'Experience the future of entertainment with our cutting-edge technology and innovative features.',
+        type: 'React,Node.js,MongoDB',
+        code: 'shop',
+    },
+    {
+        name: "Expense Tracker",
+        des: 'Access your financial information anytime, anywhere with our multi-platform support.',
+        type: 'React,Node.js,MongoDB',
+        code: 'shop',
+    },
+    {
+        name: "Threads",
+        des: 'Threads provides a seamless and intimate messaging experience for users.',
+        type: 'React,Node.js,MongoDB',
         code: 'shop',
     }
 ];
