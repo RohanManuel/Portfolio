@@ -26,6 +26,10 @@ const experience = [
     {
         img: "images/ro.png",
         name: 'FreeCodeCamp: Responsive Web Design',
+    },
+    {
+        img: "images/rp.png",
+        name: 'Cisco: Networking Basics',
     }
 
 ];
