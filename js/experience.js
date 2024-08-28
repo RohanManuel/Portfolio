@@ -12,6 +12,10 @@ const experience = [
         name: 'Hackerrank: SQL (Advanced)',
     },
     {
+        img: "images/cyh.png",
+        name: 'NPTEL: Programming in Java',
+    },
+    {
         img: "images/poi.png",
         name: 'Google: Digital Garage',
     },
