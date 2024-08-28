@@ -6,13 +6,13 @@ const project = [
         code: 'shop',
     },
     {
-        name: "CaseCobra",
+        name: "Case Cobra",
         des: 'Design and customize your phone cases effortlessly with our intuitive platform, offering a wide range of options to match your style.',
         type: 'Next.js',
         code: 'shop',
     },
     {
-        name: "Enterprise-Level Food Ordering App",
+        name: "Food Ordering App",
         des: 'An enterprise-level platform designed to streamline and elevate the food ordering experience for businesses, offering robust features, seamless integration, and scalable solutions.',
         type: 'React,Node.js,MongoDB',
         code: 'shop',
