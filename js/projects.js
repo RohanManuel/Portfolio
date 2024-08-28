@@ -1,19 +1,19 @@
 const project = [
     {
-        name: "Netflix Clone Website",
-        des: 'Experience the future of entertainment with our cutting-edge technology and innovative features.',
+        name: "Job Portal",
+        des: 'Connect with top employers and discover your dream job through our user-friendly platform, tailored for seamless job searching and recruitment.',
         type: 'React,Node.js,MongoDB',
         code: 'shop',
     },
     {
-        name: "Expense Tracker",
-        des: 'Access your financial information anytime, anywhere with our multi-platform support.',
-        type: 'React,Node.js,MongoDB',
+        name: "CaseCobra",
+        des: 'Design and customize your phone cases effortlessly with our intuitive platform, offering a wide range of options to match your style.',
+        type: 'Next.js',
         code: 'shop',
     },
     {
-        name: "Threads",
-        des: 'Threads provides a seamless and intimate messaging experience for users.',
+        name: "Enterprise-Level Food Ordering App",
+        des: 'An enterprise-level platform designed to streamline and elevate the food ordering experience for businesses, offering robust features, seamless integration, and scalable solutions.',
         type: 'React,Node.js,MongoDB',
         code: 'shop',
     }
