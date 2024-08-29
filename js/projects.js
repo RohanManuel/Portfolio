@@ -12,6 +12,12 @@ const project = [
         code: 'shop',
     },
     {
+        name: "MeditaionApp",
+        des: 'Experience effortless meditation with our apps intuitive design, tailored recommendations, and seamless navigation.',
+        type: 'ReactNative,Expo',
+        code: 'shop',
+    },
+    {
         name: "Food App",
         des: 'An enterprise-level platform designed to streamline and elevate the food ordering experience for businesses, offering robust features, seamless integration, and scalable solutions.',
         type: 'React,Node.js,MongoDB',
