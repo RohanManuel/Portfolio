@@ -12,7 +12,7 @@ const project = [
         code: 'shop',
     },
     {
-        name: "MeditaionApp",
+        name: "MeditationApp",
         des: 'Experience effortless meditation with our apps intuitive design, tailored recommendations, and seamless navigation.',
         type: 'ReactNative,Expo',
         code: 'shop',
