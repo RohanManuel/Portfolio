@@ -6,9 +6,15 @@ const project = [
         code: 'shop',
     },
     {
-        name: "Case Cobra",
+        name: "CleverCovers",
         des: 'Design and customize your phone cases effortlessly with our intuitive platform, offering a wide range of options to match your style.',
-        type: 'Next.js',
+        type: 'Next.js,React.js',
+        code: 'shop',
+    },
+    {
+        name: "MeditationApp",
+        des: 'Experience effortless meditation with our app's intuitive design, tailored recommendations, and seamless navigation.',
+        type: 'ReactNative,Expo',
         code: 'shop',
     },
     {
